@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "bilibili_beauty"
-version = "0.0.1"
+version = "0.0.2"
 description = "random get beauty video url"
 authors = ["idlewith <newellzhou@163.com>"]
 license = "MIT"
